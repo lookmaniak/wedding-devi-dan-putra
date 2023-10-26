@@ -1,0 +1,30 @@
+/* Pink Color Theme */
+.btn-1:hover,
+.couple-section .couple h3,
+.story-section .story-text h3,
+.story-section .story-item i,
+.event-section .event-item-inner span,
+.couple-section .couple .social-icons a i,
+.couple-section .couple i.fa-heart,
+.header .nav ul li a.active,
+.header .nav ul li a:hover {
+    color: #78bdf2;
+}
+
+.btn-1,
+.couple-section .couple img,
+.event-section .event-item-inner:before,
+.couple-section .couple .social-icons a i {
+    border-color: #78bdf2;
+}
+
+.event-section,
+.rsvp-section,
+.btn-1,
+.couple-section .couple .social-icons a:hover i {
+    background-color: #78bdf2;
+}
+
+.bg-primary {
+    background-color: #78bdf2;
+}
